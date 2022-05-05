@@ -1,2 +1,5 @@
 ERROR: Epic fail on 1863540. Copy this entire message into failedIDs.txt
 ERROR: Epic fail on 1061400. Copy this entire message into failedIDs.txt
+ERROR: Epic fail on 1397950. Copy this entire message into failedIDs.txt
+ERROR: Epic fail on 1397960. Copy this entire message into failedIDs.txt
+ERROR: Epic fail on 1398100. Copy this entire message into failedIDs.txt
